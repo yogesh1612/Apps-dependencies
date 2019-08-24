@@ -30,7 +30,7 @@ pacman::p_install_gh('vqv/ggbiplot')
 
 #------------------Sentiment Analysis App------------------#
 pacman::p_load(devtools,SnowballC,psych,DBI,assertthat,Rcpp,mnormt,tidyr,dplyr,ggplot2,DT,reshape2,wordcloud,plotly,tidytext)
-pacman::p_install_gh('juliasilge/tidytext')
+#pacman::p_install_gh('juliasilge/tidytext')
 #----------------------------------------------------------#
 
 
