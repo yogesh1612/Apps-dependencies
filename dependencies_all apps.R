@@ -35,7 +35,7 @@ pacman::p_install_gh('juliasilge/tidytext')
 
 
 #------------------Decision tree------------------------#
-pacman::p_load(shiny,pastecs,rpart,dplyr,Hmisc,randoForest,hydroGOF,party,partykit)
+pacman::p_load(shiny,pastecs,rpart,dplyr,Hmisc,randomForest,hydroGOF,party,partykit)
 #-----------------------------------------------------#
 
 #----------------------OCR Analysis App----------#
