@@ -41,3 +41,6 @@ pacman::p_load(shiny,pastecs,rpart,dplyr,Hmisc,randomForest,hydroGOF,party,party
 pacman::p_load(tesseract,Hmisc,xml2,stringr,tibble,pdftools,quanteda,DT)
 #-------------------------------------------------#
 
+#---------- geo demand App--------------#
+pacman::p_load(RgoogleMaps,dplyr,leaflet,shiny)
+#----------------------------------------#
